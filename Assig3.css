@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	font-family: 'Permanent Marker', cursive;
+	
+}
+.ar{
+	float: left;
+	border: 2px solid #E6E6FA;
+	margin-top: 25px;
+	margin-left: 3%;
+	
+	height: 300px;
+	width: 30%;
+}
+.ar1{
+	
+	border: 2px solid #E6E6FA;
+	margin-top: 25px;
+	margin-left: 3%	;
+	height: 300px;
+	width: 31%;
+}
+.ar2{
+	float: right;
+	border: 2px solid #E6E6FA;
+	margin-top: 25px;
+	margin-left: 3%;
+	height: 300px;
+	width: 30%;
+}
+
+
+.ar3{
+	float: left;
+	border: 2px solid #E6E6FA;
+	margin-top: 25px;
+	margin-left: 3%;
+	
+	height: 300px;
+	width: 30%;
+}
+.ar4{border: 2px solid #E6E6FA;
+	margin-top: 25px;
+	margin-left: 3%	;
+	height: 300px;
+	width: 31%;
+}
+.ar5{
+	float: right;
+	border: 2px solid #E6E6FA;
+	margin-top: 25px;
+	margin-left: 3%;
+	height: 300px;
+	width: 30%;
+}
+.ar6{
+	float: left;
+	border: 2px solid #E6E6FA;
+	margin-top: 25px;
+	margin-left: 3%;
+	
+	height: 300px;
+	width: 30%;
+}
+.ar7{border: 2px solid #E6E6FA;
+	margin-top: 25px;
+	margin-left: 3%	;
+	height: 300px;
+	width: 31%;
+}
+.ar8{
+	float: right;
+	border: 2px solid #E6E6FA;
+	margin-top: 25px;
+	margin-left: 3%;
+	height: 300px;
+	width: 30%;
+}
